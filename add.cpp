@@ -5,3 +5,4 @@ int main(){
     cin>>a>>b;
     cout<<"The sum is: "<<a+b<<'\n'<<a-b;
 }
+
